@@ -1,0 +1,7 @@
+runtime: go122
+
+service: default
+main: dev/yourservice.git/services/yourservice
+
+env_variables:
+  YOURSERVICE_WEB_API_HOST: "0.0.0.0:8080"
