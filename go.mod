@@ -1,6 +1,6 @@
 module dev/yourservice.git
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/ardanlabs/conf/v2 v2.2.0
